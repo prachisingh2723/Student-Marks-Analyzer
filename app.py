@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -159,4 +158,4 @@ if st.button("Calculate Result"):
             file_name="student_report.csv",
             mime="text/csv"
         )
-```
+
